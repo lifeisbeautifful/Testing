@@ -24,7 +24,7 @@ namespace EAAPP
                 case Browsers.Chrome:
                     ChromeOptions option = new ChromeOptions();
                     option.AddArgument("--headless");
-                    //add
+                    //add dfdgf
                     Driver = new ChromeDriver(option);
                     break;
                 case Browsers.FireFox:
